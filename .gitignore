@@ -1,0 +1,12 @@
+*.suo
+*.ncrunchproject
+
+*.ncrunchsolution
+*.cache
+_Resharper.AimlessNames
+
+AimlessNames/bin
+AimlessNames/obj
+
+AimlessNames.Test/bin
+AimlessNames.Test/obj
